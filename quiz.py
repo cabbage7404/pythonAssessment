@@ -5,11 +5,6 @@ fruits = {"Apple":"0.50",
           "Grape":"12.99",
           "Blueberry":"6.99"}
 
-#sets the discount tiers to constants
-options = {"50":"0.95",
-           "100":"0.90",
-           "150":"0.80",}
-
 #sets the options to a constant
 options_list = ["1. Add item", "2. Remove item", "3. Finish shopping", "4. Cancel"]
 
